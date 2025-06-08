@@ -96,5 +96,5 @@ python unemployment_analysis.py
 ```
 ---
 ## ✍️ Author
-- Name: [Your Name]
+- Name: Aaditya Devadiga
 - Internship: AICTE OASIS InfoByte — Data Science
