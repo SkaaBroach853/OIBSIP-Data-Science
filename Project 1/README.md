@@ -89,7 +89,7 @@ We import necessary libraries like `pandas`, `matplotlib`, `seaborn`, and `sklea
 
 ---
 ## 🙌 Author
-- Aadi
+- Name - Aaditya Devadiga
 - AICTE OASIS Infobyte Internship - Data Science
 - Task 1 – Iris Flower Classification
 ## 📌 License
